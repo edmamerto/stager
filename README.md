@@ -3,6 +3,9 @@
 
 ![demo.png](./demo.png)
 
+> ⚠️ `stager` only works at the file level. Use `git add -p` if you want to stage specific lines.
+
+
 ## ⚡ Quick Setup
 
 To use `stager` anywhere, add this to your shell profile:
