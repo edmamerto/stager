@@ -7,7 +7,7 @@
 
 To use `stager` anywhere, add this to your shell profile:
 ```bash
-alias notk9s="/full/path/to/stager.sh"
+alias stager="/full/path/to/stager.sh"
 ````
 
 ---
